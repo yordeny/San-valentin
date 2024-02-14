@@ -1,0 +1,24 @@
+body {
+    position:relative;
+    text-align: center;
+    background-color: hsl(0, 59%, 55%);
+}
+
+img {
+    height: 250px;
+    border-radius: 50%;
+    margin-top: 6%;
+}
+
+.button {
+    border-radius: 25px;
+    background-color:#FDE767;
+    height: 50px;
+    width: 100px;
+    margin: 15px 25px;
+}
+
+p {
+    margin: 50px 60px;
+    color: white;
+}
